@@ -43,6 +43,28 @@ body {
 
 div#root{
   display: grid;
-  grid-template-columns: auto auto;
-  grid-template-rows: auto auto;
+  grid-template-columns: 330px 330px 330px;
+  grid-template-rows: 1fr 1fr 1fr 1fr; 
 }
+
+/* DE ØVERSTE KORT ROW 1 */
+#travelCard{
+  grid-row: 1;
+  grid-column: 1;
+}
+#outdoorCard{
+  grid-row: 1;
+  grid-column: 2;
+}
+/* DE FORSKELLIGE KORT ROW 2 */
+#deliveryCard {
+  grid-row: 2;
+}
+#parcelCard{
+  grid-row: 2;
+}
+#checkCard{
+  grid-row: 2;
+}
+
+

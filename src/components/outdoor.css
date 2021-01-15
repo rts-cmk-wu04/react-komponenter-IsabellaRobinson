@@ -4,9 +4,11 @@
   grid-template-columns: 400px auto;
   grid-template-rows: 100px auto auto;
   margin: 30px;
+  margin-left: 120px;
   padding: 20px;
   background-color: white;
   height: 53vh;
+  width: 900px;
   border-radius: 20px;
   color: black;
 }

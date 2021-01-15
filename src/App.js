@@ -4,6 +4,7 @@ import Delivery from "./components/delivery.js";
 import Parcel from "./components/parcel.js";
 import Check from "./components/check.js";
 import Service from "./components/service.js";
+import Coll10 from "./components/coll10.js";
 
 
 
@@ -18,6 +19,7 @@ function App() {
       <Parcel/>
       <Check/>
       <Service/>
+      <Coll10/>
     </>
   )
 }

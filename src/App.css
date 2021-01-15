@@ -44,7 +44,7 @@ body {
 div#root{
   display: grid;
   grid-template-columns: 330px 330px 330px;
-  grid-template-rows: 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 400px 1fr 1fr; 
 }
 
 /* DE ØVERSTE KORT ROW 1 */

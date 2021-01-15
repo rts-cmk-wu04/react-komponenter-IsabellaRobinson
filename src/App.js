@@ -6,6 +6,7 @@ import Check from "./components/check.js";
 import Service from "./components/service.js";
 import Coll10 from "./components/coll10.js";
 import Coll1 from "./components/coll1.js";
+import Coll123 from "./components/coll123.js";
 
 
 
@@ -22,6 +23,7 @@ function App() {
       <Service/>
       <Coll10/>
       <Coll1/>
+      <Coll123/>
     </>
   )
 }

@@ -8,8 +8,8 @@ function Coll10(){
                 <div id="litllepic">
                 <a href="_blank"><img src="Ellipse 33.png" alt="billede"/></a>
                 </div>
-            <h1 id="headlineColl10">Off-the-grid experiences</h1>
-            <p id="textColl10">By: Malanie S.</p>
+            <h1 id="headlineColl">Off-the-grid experiences</h1>
+            <p id="textColl">By: Malanie S.</p>
         </div>
     )
 }

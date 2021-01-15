@@ -29,14 +29,14 @@
     margin-left: 30px;
 }
 
-#headlineColl10 {
+#headlineColl {
     display: flex;
     justify-content: center;
     font-size: small;
     
 }
 
-#textColl10 {
+#textColl {
     display: flex;
     justify-content: center;
 }

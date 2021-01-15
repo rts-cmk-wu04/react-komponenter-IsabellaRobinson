@@ -25,5 +25,3 @@ function Outdoor() {
 
 export default Outdoor;
 
-export default Outdoor;
-

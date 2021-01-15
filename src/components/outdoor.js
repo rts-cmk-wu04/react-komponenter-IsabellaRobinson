@@ -10,7 +10,9 @@ function Outdoor() {
     <p id="textOutdoor">It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. 
     All is flowing, rushing and tide-And I sit in wonder, dreaming beside.
     </p>
+
     
+
     <div id="minipics"> 
     <a href="https://placeholder.com/"><img src="https://via.placeholder.com/100x110" alt="billede"/></a>
     <a href="https://placeholder.com/"><img src="https://via.placeholder.com/100x110" alt="billede"/></a>
@@ -20,4 +22,8 @@ function Outdoor() {
 )
 
 }
+
 export default Outdoor;
+
+export default Outdoor;
+
